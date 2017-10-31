@@ -5,6 +5,8 @@ p {
 h1 {
 	color: black;
 	text-aling: center;
-	font-style: serif;
 }
 
+h1.serif{
+	font-style: serif;
+}
