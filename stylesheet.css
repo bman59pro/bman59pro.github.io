@@ -13,5 +13,7 @@ h2{
 	font-family: "Times New Roman", Times, serif;
 }
 img{
-	img-align: center;
+	 display: block;
+    	margin: auto;
+    	width: 40%;
 }
