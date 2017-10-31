@@ -4,9 +4,7 @@ p {
 }
 h1 {
 	color: black;
-	text-aling: center;
-}
-
-h1.serif{
+	text-align: center;
 	font-style: serif;
 }
+
