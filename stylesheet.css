@@ -20,7 +20,7 @@ img{
 li {
     display: inline;
 }
-<menu>
+
 a:link, a:visited {
     background-color: white;
     color: black;
@@ -34,7 +34,5 @@ a:link, a:visited {
 a:hover, a:active {
     background-color: green;
     color: white;
-</menu>
-	menu {
-		background-color:light-green;
-	}
+
+	
