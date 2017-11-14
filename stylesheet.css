@@ -20,7 +20,7 @@ img{
 li {
     display: inline;
 }
-menu a:link, a:visited {
+ a:link, a:visited {
     background-color: white;
     color: black;
     border: 2px solid green;
@@ -30,10 +30,10 @@ menu a:link, a:visited {
     display: inline-block;
 }
 
-menu a:hover, a:active {
+ a:hover, a:active {
     background-color: green;
     color: white;
 }
-	menu a{
+	 a{
 		background-color: light-green;
 	}
