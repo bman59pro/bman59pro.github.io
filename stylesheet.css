@@ -42,3 +42,8 @@ li {
 	 a{
 		background-color: light-green;
 	}
+
+ul {
+	padding: o;
+	margin: 10px auto;
+}
